@@ -15,7 +15,7 @@ En analysant attentivement son offre de recrutement, j'ai dégagé les principau
 Tirer de la donnée une intelligence opérationnelle et stratégique :<br>
 - modéliser et analyser des KPIs métiers, par exemple pour la conception des avions, l’optimisation des performances opérationnelles, la sécurité des vols
 - réaliser des analyses prédictives (maintenance prédictive par exemple)
--développer des dashboards stratégiques<br><br>
+- développer des dashboards stratégiques<br><br>
 
 **Besoin métier 2 : structuration et gouvernance de la donnée**<br>
 Maîtriser le cycle de vie de la donnée pour fiabiliser les décisions et réduire les silos :<br>
