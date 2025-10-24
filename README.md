@@ -39,7 +39,7 @@ Transformer l'organisation pour en faire une entreprise "data-driven" :<br>
 Les projets réalisés illustrent mes compétences-clés pour répondre à ces besoins métiers : l'analyse de données, la visualisation de données (grâce à des bibliothèques graphiques et des tableaux de bord), ainsi que la modélisation, la création et la manipulation de bases de données.<br>
 J'ai rassemblé sous forme de tableau de bord l'ensemble des projets Data que j'ai menés, et je vais développer ci-dessous les projets les plus pertinents vis-à-vis des besoins métiers Data d'Aéroworld.
 
-![Screenshot](https://github.com/NPautet/Portfolio-Data_Analyst/screenshots/Profil.png)
+![Screenshot](screenshots/Profil.png)
 
 ## Principaux projets réalisés
 
@@ -57,7 +57,7 @@ Tâches réalisées :
 - Développement de visualisations répondant aux *User Stories*
 - Production de reportings avec différents niveaux de granularité pour faciliter la prise de décisions à différents niveaux hiérarchiques
 
-![Screenshot](https://github.com/NPautet/Portfolio-Data_Analyst/screenshots/Dashboard_P7.png)
+![Screenshot](screenshots/Dashboard_P7.png)
 
 ### [P05 - Créer une base de données immobilière avec SQL](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P05_DATAImmo)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
@@ -102,7 +102,7 @@ Tâches réalisées :
 - Réalisation d'une Analyse en Composantes Principales (ACP) pour réduire la dimension du jeu de données et optimiser le temps d'apprentissage des modèles
 - Utilisation et comparaison de plusieurs méthodes de clustering pour segmenter les ooportunités
 
-![Screenshot](https://github.com/NPautet/Portfolio-Data_Analyst/screenshots/Clusters_P11.png)
+![Screenshot](screenshots/Clusters_P11.png)
 
 ### [P12 - Détecter des faux billets avec Python](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P12_Faux_Billets)
 ![Skills](https://skillicons.dev/icons?i=python)
