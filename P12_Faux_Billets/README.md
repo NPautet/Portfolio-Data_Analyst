@@ -6,5 +6,5 @@ Je travaille pour une organisation institutionnelle, l'Organisation Nationale de
 Tâches réalisées :
 - Analyse des distributions des variables selon l'authenticité des billets
 - Utilisation et comparaison de modèles de régression linéaire pour imputer les valeurs manquantes du dataset
-- Mise en œuvre de modèles d'apprentissages supervisés pour réaliser des prédictions
+- Mise en œuvre de modèles d'apprentissage supervisés pour réaliser des prédictions
 - Comparaison des modèles prédictifs étudiés par validation croisée et grâce à la définition d'une métrique pertinente
