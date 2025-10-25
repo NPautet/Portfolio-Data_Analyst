@@ -4,7 +4,7 @@
 Aéroworld, une grande entreprise de l'aéronautique française, est à la recherche d'un Chef de projet Data Analyst. Afin de me positionner pour ce recrutement, je dois produire des livrables variés attestant de mes compétences techniques et comportementales.
 
 Livrables organisationnels :  
-- Carte mentale du projet (réalisée avec Coggle)
+- [Carte mentale du projet](https://coggle.it/diagram/aNzrtOou00ZX-nZZ/t/nicolas-pautet-carte-mentale-projet-portfolio-data-analyst) (réalisée avec Coggle)
 - Analyse des besoins métiers
 - cahier des charges fonctionnel du projet
 - Diagramme de GANTT du projet<br><br>
