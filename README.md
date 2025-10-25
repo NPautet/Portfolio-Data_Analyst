@@ -80,6 +80,7 @@ Tâches réalisées :
 - Collecte des données pertinentes dans le respect des normes et bonnes pratiques (RGPD)
 - Agrégation des extractions de données en définissant les règles de nettoyage pour chaque indicateur
 - Vérification de la cohérence et la fiabilité des données préparées pour chaque indicateur
+- Production de visuels explicatifs proposant des pistes d'amélioration du score de l'index
 
 ### [P09 - Analyser les ventes d'une librairie avec Python](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P09_Ventes_Librairie)
 ![Skills](https://skillicons.dev/icons?i=python)
