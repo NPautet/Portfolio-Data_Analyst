@@ -31,7 +31,7 @@ Sécuriser les données sensibles sans entraver l'innovation :<br>
 **Besoin métier 4 : pilotage global et transformation culturelle**<br>
 Transformer l'organisation pour en faire une entreprise "data-driven" :<br>
 - participer aux démarches d’harmonisation à l’échelle du groupe des sources de données et des pratiques (par exemple en matière d’analyse de données)
-- accompagner le développement de la culture de la donnée à l’ensemble des collaborateurs du groupe par la vulgarisation, la pédagogie
+- accompagner le développement de la culture de la donnée pour l’ensemble des collaborateurs du groupe par la vulgarisation, la pédagogie
 - en particulier pour les décisions stratégiques, les justifier par des analyses rigoureuses et des visualisations claires<br><br>
 
 ## Pertinence des projets du portfolio vis-à-vis des besoins client
