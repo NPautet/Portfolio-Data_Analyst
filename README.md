@@ -34,6 +34,23 @@ Transformer l'organisation pour en faire une entreprise "data-driven" :<br>
 - accompagner le développement de la culture de la donnée à l’ensemble des collaborateurs du groupe par la vulgarisation, la pédagogie
 - en particulier pour les décisions stratégiques, les justifier par des analyses rigoureuses et des visualisations claires<br><br>
 
+## Pertinence des projets du portfolio vis-à-vis des besoins client
+
+| Projet | Besoin Métier 1 | Besoin Métier 2 | Besoin Métier 3 | Besoin Métier 4 |
+|-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[P02](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P02_Ventes_E-Commerce)|✅|||✅|
+|[P03](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P03_Requ%C3%AAtes_SQL)||✅|||
+|[P04](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P04_%C3%89tude_FAO)|✅||||
+|[P05](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P05_DATAImmo)||✅|✅|✅|
+|[P06](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P06_Bottleneck)|✅|||✅|
+|[P07](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P07_Sanitoral)|✅||✅|✅|
+|[P08](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P08_%C3%89galit%C3%A9Pro_FH)|||✅|✅|
+|[P09](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P09_Ventes_Librairie)|✅|||✅|
+|[P10](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P10_%C3%89tude_DWFA)|✅|||✅|
+|[P11](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P11_%C3%89tude_march%C3%A9_Poulet)|✅|||✅|
+|[P12](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P12_Faux_Billets)|✅||||
+|[P13](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P13_Portfolio)||||✅|
+
 ## Mon profil
 
 Les projets réalisés illustrent mes compétences-clés pour répondre à ces besoins métiers : l'analyse de données, la visualisation de données (grâce à des bibliothèques graphiques et des tableaux de bord), ainsi que la modélisation, la création et la manipulation de bases de données.<br>
