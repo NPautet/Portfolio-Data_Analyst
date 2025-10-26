@@ -125,7 +125,7 @@ Tâches réalisées :
 ### [P12 - Détecter des faux billets avec Python](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P12_Faux_Billets)
 ![Skills](https://skillicons.dev/icons?i=python)
 
-Je travaille pour une organisation institutionnelle, l'Organisation Nationale de lutte Contre le Faux-Monnayage (ONFCM). J'ai pour mission de tester, d'optimiser et de comparer des modèles prédictifs supervisés permettant d'authentifier (ou non) des billets de banque à partir de leurs mesures géométriques.
+Je travaille pour une organisation institutionnelle, l'Organisation Nationale de lutte Contre le Faux-Monnayage (ONCFM). J'ai pour mission de tester, d'optimiser et de comparer des modèles prédictifs supervisés permettant d'authentifier (ou non) des billets de banque à partir de leurs mesures géométriques.
 
 Tâches réalisées :
 - Analyse des distributions des variables selon l'authenticité des billets
