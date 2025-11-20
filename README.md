@@ -6,58 +6,6 @@ Bienvenue sur le dépôt GitHub de mon portfolio de Data Analyst. Vous trouverez
 Les projets réalisés illustrent mes compétences-clés comme l'analyse de données, la visualisation de données (grâce à des bibliothèques graphiques et des tableaux de bord), ainsi que la modélisation, la création et la manipulation de bases de données. Lors de cette formation, j'ai découvert ou amélioré ma maîtrise des outils Data comme Python (bibliothèques Pandas et sklearn), SQL, Excel et Power BI.
 
 
-
-## Rappel des besoins client
-
-En analysant attentivement son offre de recrutement, j'ai dégagé les principaux besoins métier en matière de Data de l'entreprise Aéroworld :
-
-**Besoin métier 1 : valorisation et exploitation de la donnée**<br>
-Tirer de la donnée une intelligence opérationnelle et stratégique :<br>
-- modéliser et analyser des KPIs métiers, par exemple pour la conception des avions, l’optimisation des performances opérationnelles, la sécurité des vols
-- réaliser des analyses prédictives (maintenance prédictive par exemple)
-- développer des dashboards stratégiques<br><br>
-
-**Besoin métier 2 : structuration et gouvernance de la donnée**<br>
-Maîtriser le cycle de vie de la donnée pour fiabiliser les décisions et réduire les silos :<br>
-- dresser une cartographie des sources avec définition des flux
-- mettre en place un modèle de données cohérent
-- participer à la création d’une infrastructure type Data Lake<br><br>
-
-**Besoin métier 3 : sécurité et conformité de la donnée**<br>
-Sécuriser les données sensibles sans entraver l'innovation :<br>
-- participer à la définition des règles d’accès et de confidentialité
-- réaliser une veille sur les règles, normes (RGPD, ISO 27001) et outils en matière de sécurité des données<br><br>
-
-**Besoin métier 4 : pilotage global et transformation culturelle**<br>
-Transformer l'organisation pour en faire une entreprise "data-driven" :<br>
-- participer aux démarches d’harmonisation à l’échelle du groupe des sources de données et des pratiques (par exemple en matière d’analyse de données)
-- accompagner le développement de la culture de la donnée pour l’ensemble des collaborateurs du groupe par la vulgarisation, la pédagogie
-- en particulier pour les décisions stratégiques, les justifier par des analyses rigoureuses et des visualisations claires<br><br>
-
-## Pertinence des projets du portfolio vis-à-vis des besoins client
-
-| Projet | Besoin Métier 1 | Besoin Métier 2 | Besoin Métier 3 | Besoin Métier 4 |
-|-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-|[P02](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P02_Ventes_E-Commerce)|✅|||✅|
-|[P03](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P03_Requ%C3%AAtes_SQL)||✅|||
-|[P04](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P04_%C3%89tude_FAO)|✅||||
-|[P05](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P05_DATAImmo)||✅|✅|✅|
-|[P06](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P06_Bottleneck)|✅|||✅|
-|[P07](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P07_Sanitoral)|✅||✅|✅|
-|[P08](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P08_%C3%89galit%C3%A9Pro_FH)|||✅|✅|
-|[P09](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P09_Ventes_Librairie)|✅|||✅|
-|[P10](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P10_%C3%89tude_DWFA)|✅|||✅|
-|[P11](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P11_%C3%89tude_march%C3%A9_Poulet)|✅|||✅|
-|[P12](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P12_Faux_Billets)|✅||||
-|[P13](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P13_Portfolio)||||✅|
-
-## Mon profil
-
-Les projets réalisés illustrent mes compétences-clés pour répondre à ces besoins métiers : l'analyse de données, la visualisation de données (grâce à des bibliothèques graphiques et des tableaux de bord), ainsi que la modélisation, la création et la manipulation de bases de données.<br>
-J'ai rassemblé sous forme de tableau de bord l'ensemble des projets Data que j'ai menés, et je vais développer ci-dessous les projets les plus pertinents vis-à-vis des besoins métiers Data d'Aéroworld.
-
-![Screenshot](screenshots/Profil.png)
-
 ## Principaux projets réalisés
 
 ### [P07 - Créer un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](https://github.com/NPautet/Portfolio-Data_Analyst/tree/main/P07_Sanitoral)
